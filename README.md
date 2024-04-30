@@ -27,7 +27,7 @@
 
 <!--Intro start-->
 - 🔭 I’m currently working on **React, React Native, Nodejs, MongoDB**
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [1010nishant](https://discordapp.com/users/779726921230843955) my username!
+- 🏠 Don't hesitate to drop me a **👋** on Discord –  [ByteBuf](https://discordapp.com/users/779726921230843955) my username!
 <!--Intro end-->
 
 
